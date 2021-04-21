@@ -8,7 +8,7 @@
 apiVersion: v1
 kind: SoftwareEngineer
 metadata:
-    name: Sergio Rodríguez
+    name: Sergio Rodríguez Calvo
     namespace: ING Spain
     annotations:
         sports: running, formula1, football, real betis balompié
