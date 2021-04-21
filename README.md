@@ -29,3 +29,5 @@ spec:
 
 [**All blog posts and articles**](https://serrodcal.medium.com/)
 
+Please, check out [my organizations](https://github.com/settings/organizations) to see all my projects ;)
+
