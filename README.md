@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white&link=https://twitter.com/serrodcal)](https://twitter.com/serrodcal)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white&link=https://twitter.com/sergio_7rc)](https://twitter.com/sergio_7rc)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/sergio-rodr%C3%ADguez-calvo-38bb7997/)](https://www.linkedin.com/in/sergio-rodr%C3%ADguez-calvo-38bb7997/)
 [![stackoverflow](https://img.shields.io/static/v1?style=flat-square&logo=stackoverflow&label=&message=StackOverflow&color=5b5b5b&labelColor=5b5b5b)](https://stackoverflow.com/users/4436650/sergio-rodr%c3%adguez-calvo)
 
