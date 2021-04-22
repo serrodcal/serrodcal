@@ -12,7 +12,7 @@ metadata:
     namespace: ING Spain
     annotations:
         sports: running, formula1, football, real betis balompié
-        community: quarkus
+        technologies: quarkus, kind, kubernetes, maven, java11, python, istio, azure devops, etc.
 spec:
     replicas: 1
     containers:
