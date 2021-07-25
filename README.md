@@ -23,6 +23,7 @@ spec:
 
 | Date          | Title |
 |:--------------|:------|
+| Jul 24, 2021 | [Smallrye-Mutiny!](https://serrodcal.medium.com/smallrye-mutiny-f0ba91110186) |
 | May 6, 2021 | [Introducción a Gatling](https://serrodcal.medium.com/introducci%C3%B3n-a-gatling-d742f8bde91a) |
 | April 2, 2021 | [DevServices en Quarkus](https://serrodcal.medium.com/devservices-en-quarkus-5eb4b550dcad) |
 | August 21, 2019 | [Usando Kustomize para instalar Apache Flink en Kubernetes](https://serrodcal.medium.com/usando-kustomize-para-instalar-apache-flink-en-kubernetes-9eb59a27b164) |
