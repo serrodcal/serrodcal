@@ -24,6 +24,7 @@ spec:
 
 | Date          | Title |
 |:--------------|:------|
+| Nov 22, 2022 | [¿Cómo hacer un plan de capacidad?](https://serrodcal.medium.com/c%C3%B3mo-hacer-un-plan-de-capacidad-79cbf07fda19) |
 | Jul 24, 2021 | [Smallrye-Mutiny!](https://serrodcal.medium.com/smallrye-mutiny-f0ba91110186) |
 | May 6, 2021 | [Introducción a Gatling](https://serrodcal.medium.com/introducci%C3%B3n-a-gatling-d742f8bde91a) |
 | April 2, 2021 | [DevServices en Quarkus](https://serrodcal.medium.com/devservices-en-quarkus-5eb4b550dcad) |
