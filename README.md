@@ -11,6 +11,7 @@ metadata:
     name: Sergio Rodríguez Calvo
     namespace: ING Spain
     annotations:
+        roles: Software Engineer, Platform Architect, Site Reliability Engineer 
         sports: running, formula1, football, real betis balompié
         technologies: quarkus, kind, kubernetes, maven, java11, python, istio, azure devops, machine-learning, wso2, etc.
 spec:
