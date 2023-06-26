@@ -33,5 +33,11 @@ spec:
 
 [**All blog posts and articles**](https://serrodcal.medium.com/)
 
+### Latest talks
+
+| Date          | Title |
+|:--------------|:------|
+| May 23, 2023 | [Cómo conquistar Klendathu con contenedores](https://www.youtube.com/watch?v=vEBkrOtmi_g) |
+
 Please, check out [my organizations](https://github.com/settings/organizations) to see all my projects ;)
 
